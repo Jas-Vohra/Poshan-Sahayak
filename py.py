@@ -18,11 +18,10 @@ from twilio.rest import Client
 from gtts import gTTS 
 
 
-BOT_TOKEN = "8545844235:AAEkdf2Igg4HORdkiny52PF5SqzixUGwjbA"
 
-
-TWILIO_SID = "ACac532592a69b6ed08c30c6fed10abfd6"
-TWILIO_AUTH = "7302d39b9e8d378e733139329c1c1ebe"
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+TWILIO_SID = "YOUR_TWILIO_SID_HERE"
+TWILIO_AUTH = "YOUR_TWILIO_AUTH_HERE"
 FROM_WHATSAPP = "whatsapp:+14155238886"  # Default Twilio Sandbox Number
 
 
